@@ -1,0 +1,3 @@
+Up, Down, Left, Right - Arrow Keys
+Action - Enter
+Cancel - Esc or Numberpad 0
